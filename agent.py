@@ -16,7 +16,3 @@ Reward: USDT prize pool
         return "Many Binance campaigns offer token rewards or USDT prizes."
 
     return "Ask me about Binance campaigns."
-
-while True:
-    user = input("You: ")
-    print("AI:", ai_agent(user))
