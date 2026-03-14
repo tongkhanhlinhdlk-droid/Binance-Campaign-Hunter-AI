@@ -24,3 +24,14 @@ This AI assistant helps users quickly discover new opportunities.
 
 ## Built For
 OpenClaw AI Builder Challenge.
+
+## Demo
+
+User: Find Binance campaigns
+
+AI:
+Launchpool Event
+Reward: Token rewards
+
+Trading Competition
+Reward: USDT prize pool
