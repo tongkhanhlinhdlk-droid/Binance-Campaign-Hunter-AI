@@ -1,5 +1,6 @@
 def get_campaigns():
-    return [
+
+    campaigns = [
         {
             "name": "Binance Launchpool",
             "reward": "Token rewards"
@@ -9,3 +10,10 @@ def get_campaigns():
             "reward": "USDT prizes"
         }
     ]
+
+    result = "Latest Binance Campaigns:\n"
+
+    for c in campaigns:
+        result += f"\n{c['name']} — Reward: {c['reward']}"
+
+    return result
