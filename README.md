@@ -1,5 +1,5 @@
 # Binance Campaign Hunter AI
-
+Built with OpenClaw AI agent architecture for the Binance ecosystem.
 An AI assistant that helps users discover campaigns in the Binance ecosystem.
 
 ## Features
@@ -35,3 +35,13 @@ Reward: Token rewards
 
 Trading Competition
 Reward: USDT prize pool
+
+## Architecture
+
+OpenClaw Agent
+      ↓
+Campaign Tool
+      ↓
+Binance Campaign Data
+      ↓
+Streamlit Web Interface
