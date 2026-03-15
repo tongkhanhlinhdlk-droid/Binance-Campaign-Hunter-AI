@@ -2,6 +2,10 @@
 Built with OpenClaw AI agent architecture for the Binance ecosystem.
 An AI assistant that helps users discover campaigns in the Binance ecosystem.
 
+## Live Demo
+
+https://binance-campaign-hunter-ai-x3sxwjwweq58wsvlhyb4ph.streamlit.app
+
 ## Features
 - Find Binance campaigns
 - Show rewards
